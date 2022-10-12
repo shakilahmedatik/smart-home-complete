@@ -3,6 +3,7 @@
 An E-commerce platform for buying high quality Smart Home Appliances at extremely affordable Price.
 
 
+
 ## Live Link
 Hosted in Netlify -> [Smart Home](https://shome-shop.netlify.app/)
 
